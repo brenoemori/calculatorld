@@ -33,6 +33,12 @@
         "projectId": "35b2f9ee-e578-4f84-b10e-e22015c7dd33"
       }
     },
-    "owner": "brenoemori"
+    "owner": "brenoemori",
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/35b2f9ee-e578-4f84-b10e-e22015c7dd33"
+    }
   }
 }
